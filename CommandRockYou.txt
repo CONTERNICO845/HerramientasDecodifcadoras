@@ -1,0 +1,1 @@
+fcrackzip -u -d -p /usr/share/wordlists/rockyou.txt "El nombre del archivo"
